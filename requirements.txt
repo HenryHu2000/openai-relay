@@ -1,0 +1,21 @@
+# Core requirements
+python-dotenv>=0.19.0
+
+# Testing
+pytest>=6.2.4
+pytest-cov>=2.12.1
+
+# Linting
+black>=21.7b0
+flake8>=3.9.2
+isort>=5.9.3
+
+# Documentation
+mkdocs>=1.2.3
+mkdocs-material>=7.3.6
+
+# AI/ML
+openai>=1.12.0
+
+# Server
+flask>=2.3.2
