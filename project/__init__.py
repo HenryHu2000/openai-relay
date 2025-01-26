@@ -9,6 +9,7 @@ app = Flask(__name__)
 
 # Initialize routes
 from .routes import init_routes
+
 init_routes(app)
 
 if __name__ == "__main__":
